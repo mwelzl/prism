@@ -2,7 +2,7 @@
 This is the repository of the PRISM search engine (in case of project proposal acceptance).
 
 ![](prism-logo.png)
-*[Spectrum icons](https://www.flaticon.com/free-icons/spectrum)*
+<sup>*[Spectrum icons](https://www.flaticon.com/free-icons/spectrum)*</sup>
 
 ## Background
 
